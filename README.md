@@ -1,2 +1,1 @@
-"Branching and Merge Conflict Practice" 
-"Modification in main branch." 
+"Objective: Practice branching and merge conflicts." 
